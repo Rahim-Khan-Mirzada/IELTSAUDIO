@@ -1,0 +1,93 @@
+/*****************************Logo Design***************************/
+.logo {
+  width: 300px;
+  position: fixed;
+  left: 500px;
+  top:10px;
+}
+
+.logo:hover {
+  opacity: 0.6;
+}
+
+
+.BritishCouncil{
+  width: 300px;
+  position: relative;
+  top:200px;
+  left: 100px;
+}
+
+.IDP {
+  width: 300px;
+  position: relative;
+  top: 200px;
+  left: 250px;
+}
+
+.cambridge {
+  width: 300px;
+  position: relative;
+  top: 200px;
+  left: 390px;
+}
+
+/*****************************Div Design***************************/
+
+
+
+
+
+/*****************************Book Design***************************/
+.book12 {
+  width: 200px;
+  position: absolute;
+  left: 60px;
+  top: 700px;
+  opacity: 0.6;
+  transition: 0.4s;
+
+}
+
+.book13 {
+  width: 200px;
+  position: absolute;
+  left: 320px;
+  top: 700px;
+  opacity: 0.6;
+  transition: 0.4s;
+}
+
+.book14 {
+  width: 200px;
+  position: absolute;
+  left: 580px;
+  top: 700px;
+  opacity: 0.6;
+  transition: 0.4s;
+}
+
+.book15{
+  width:200px;
+  position: absolute;
+  left: 840px;
+  top: 700px;
+  opacity: 0.6;
+  transition: 0.4s;
+}
+
+.book16 {
+  width: 200px;
+position: absolute;
+left: 1100px;
+top: 700px;
+opacity: 0.6;
+transition: 0.4s;
+}
+
+/*****************************Book Link***************************/
+
+.book:hover {
+  opacity: 1.0;
+
+}
